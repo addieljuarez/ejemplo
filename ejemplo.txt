@@ -1,4 +1,11 @@
 este es un ejemplo 
 
 aqui cambiò en archivo
+<<<<<<< HEAD
 tercera linea
+=======
+
+
+
+otro cambio desde el repo
+>>>>>>> 2dd9db4f3021fcaaf2c26d097ef860210480cf11
